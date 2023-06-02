@@ -1,3 +1,6 @@
+HBox{
+    -fx-background-color:cyan;
+}
 
 .toile {
     -fx-fill: "white";
